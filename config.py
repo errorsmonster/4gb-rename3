@@ -9,7 +9,7 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "6875880570:AAEDi0JKiSLNuBZFTzE0P_LYHrKjfpWF44s") #⚠️ Required
     
     #premium client
-    STRING = os.environ.get("STRING", "BQFE1RoAJgJXA0KR1PWAMQzkIj-9pGHiyCw60y6UL7nl83p_QOcfv737Afo_XWE75nUugRcQA4YbmyufnZptPIJ_iIFGyGdXWfGvQZuZDgCgqD8N0OU55OEix_Rb8HdvteCRZRUr2HgRhSfmsy7ZxQ9vKtTbDx1LAOxJfuG6e8f1YuVfh1ExGDK0HFr-gQ9gENhH6HZiMnTS_eZ7s0gX5rpS7I0-lOmAwtyF8ZsJ2XdDV1amYjJROfZxP5EyvC5VRCSEJQAvjD0nyFC4wgH1Q_Sud611TBdwWs_42n73Pdg8m5Q22E-8O7bjZYwnge0iyNH_1xdS9biuGAPNl4TTV0ao58FfTQAAAAFpiaGKAA") #⚠️ Required 
+    STRING = os.environ.get("STRING", "BQFE1RoAkckw_w9QDclskNdh6f6efazR21zcGWeC2ZhjQMCjjiYrwZy4xzLWYiXePq0tks1byyPlFIMoBH7zQWJWE_vjBsnwNr0gasZGL_xCwknRG0p9xX31ReHkfCPfNYafF9BXpAS2cDPPqU2TR3ICOshUtcTCQciHpfiEGWBuEPCKZQ_9wxbOJdtWfOQiDUi6Y9mc9GjdCY2LPt0apv6RhMzrGAKrysA0S2cU8NOimpa1EpU3k_myH9XjeJ4RcSPBIcFhYSdt_yT61ccwxPbvk9veQ36c3uLvGabMSp4tCTgajCI4tJiQxMtEKaK8NszLleuFOxlena9_l4I4ukmFVT39KgAAAAFpiaGKAA") #⚠️ Required 
     STRING_API_ID = os.environ.get('STRING_API_ID', '21288218')
     STRING_API_HASH = os.environ.get('STRING_API_HASH', 'dd47d5c4fbc31534aa764ef9918b3acd')
    
