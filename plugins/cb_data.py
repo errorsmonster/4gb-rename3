@@ -185,7 +185,9 @@ async def vid(bot, update):
     thumb = data[0]
 
     duration = 0
-    metadata = extractMetadata(createParser(file_path))
+    parser = createParser(file_path)
+    metadata = extractMetadata(parser)
+    parser.close()
     if metadata.has("duration"):
         duration = metadata.get('duration').seconds
     if c_caption:
