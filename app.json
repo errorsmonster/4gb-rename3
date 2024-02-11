@@ -33,7 +33,23 @@
 
         "STRING": {
 
-            "description": "Pyrogram String Session",
+            "description": "Premium Client String Session",
+
+            "required": true
+
+        },
+
+        "STRING_API_ID": {
+
+            "description": "Premium Client API ID",
+
+            "required": true
+
+        },
+
+        "STRING_API_HASH": {
+
+            "description": "Premium Client API HASH",
 
             "required": true
 
