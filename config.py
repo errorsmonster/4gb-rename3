@@ -10,6 +10,8 @@ class Config(object):
     
     #premium client
     STRING = os.environ.get("STRING", "") #⚠️ Required 
+    STRING_API_ID = os.environ.get("STRING_API_ID", "") # ⚠️ Required
+    STRING_API_HASH = os.environ.get("STRING_API_HASH", "") # ⚠️ Required
    
     # database config
     DB_NAME = os.environ.get("DB_NAME","Premium_Data")     
