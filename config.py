@@ -18,7 +18,7 @@ class Config(object):
 
     # database config
     DB_NAME = os.environ.get("DB_NAME", "rename")
-    DB_URL = os.environ.get("DB_URL", "mongodb+srv://akmonsterprogrammer:S.Aruna1155182089@rename.etklpzs.mongodb.net/?retryWrites=true&w=majority")  # ⚠️ Required
+    DB_URL = os.environ.get("DB_URL", "mongodb+srv://akmonsterprogrammer:S.Aruna1155182089@rename.iodlmg2.mongodb.net/?retryWrites=true&w=majority&appName=rename")  # ⚠️ Required
 
     # other configs
     BOT_UPTIME = time.time()
