@@ -12,7 +12,7 @@ class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "6261503766:AAHTEnsfrtbJgyWLmopUFs-5u3EnJXXdjrU")  # ⚠️ Required
 
     # premium 4g renaming client
-    STRING = os.environ.get("STRING", "BQGPeeEAtwIYMMLrDNGOcHMKWkLQYpDwAOe9hNHgAHeg5NYWAtuDrAcwMGZqyreEKCu4KVS9qZFb9qwODdLu1GMd7mxUoYpAipgl2x5B0wFHkQwoTfkU1NFDoPVDGxf4fCw7gurw3RUqYMwHDXGTZzkzLD2F7z11qhgids8N-E1AvbawJHe99Bpob1FTFrboJGIADPo4lViD7Y3AEuJLXWzKlwDaRT6m5MSWTjUaBBj4GlIhfOz9KW2gG6NBneSQqXg-D1M3qo6Ni15nXenzkLp4izboSHcGL39Iw6Hyvf5CuTwML33Jlu_xo9gPDCUhpZ_CRwlGi7OsagAj0zVwTc2OEcOIjgAAAAFYI3yIAA")
+    STRING = os.environ.get("STRING", "BQGPeeEAFnOQp9MSOQnaGjvL7hWUCXRvvZRO4Lzlw_7XXVwRSTxc1w8ZzL_6cXsu5qIb4_9dwdSHevdvrSO5T-6E70m1bChmW-5YOyeI_D6AnLR7-t9njTW8WLtt9k7YVEqLK2_EFrIgj9df4CJyo_k51OeSkm8Rok9VSTUo3NT4iY-NpECt_uxeMwaO5x4s4bnVnttPooDO5o0_tzb7w3sC995XPXUBdm-JowAdvAAHEUcEgagdf3p9h9azyJHaLE7RkUQZyxObVftbnLKEhqpRHjq2aQ6FtGe_Kab4Duyy6iH0nF7kQqEOZRFVmnsZFKY2NS-qxosW-sL1GaKs6G8AJbsPbAAAAAFYI3yIAA")
     STRING_API_ID = os.environ.get("STRING_API_ID", "26180065")
     STRING_API_HASH = os.environ.get("STRING_API_HASH", "0a6358307acf8d0d2bf98b6827e0f5c7")
 
